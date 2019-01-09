@@ -26,3 +26,5 @@ Installing web server on EC2
 # service apache2 status
 
 * Go to browser and enter the IP
+
+
